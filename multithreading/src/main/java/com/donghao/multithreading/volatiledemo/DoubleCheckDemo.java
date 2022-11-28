@@ -1,4 +1,4 @@
-package com.donghao.multithreading;
+package com.donghao.multithreading.volatiledemo;
 
 /**
  * @author donghao.wu
