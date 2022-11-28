@@ -1,5 +1,8 @@
 package com.donghao.multithreading;
 
+/**
+ * @author donghao.wu
+ */
 public class DoubleCheckDemo {
   /**
    * 单例模式：双层校验
