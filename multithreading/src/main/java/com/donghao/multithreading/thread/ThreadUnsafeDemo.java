@@ -1,4 +1,4 @@
-package com.donghao.multithreading;
+package com.donghao.multithreading.thread;
 
 public class ThreadUnsafeDemo {
   private static int data;
